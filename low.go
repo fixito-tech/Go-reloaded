@@ -1,4 +1,3 @@
-package goreloaded
 package main
 
 import (
